@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Chrishan</h1>
-<h3 align="left">Creating cool app using cool tools  ☀️</h3>
+<h3 align="left">Creating cool apps using cool tools  ☀️</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
